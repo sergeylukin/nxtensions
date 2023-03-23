@@ -1,0 +1,1 @@
+{"version":3,"file":"cypress.js","sourceRoot":"","sources":["../../../../../../packages/astro/src/generators/utilities/cypress.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;AAAO,KAAK,UAAU,iBAAiB;IAGrC,IAAI;QACF,OAAO,wDAAa,eAAe,GAAC,CAAC;KACtC;IAAC,MAAM;QACN,MAAM,IAAI,KAAK,CACb,uHAAuH,CACxH,CAAC;KACH;AACH,CAAC;AAVD,8CAUC"}
